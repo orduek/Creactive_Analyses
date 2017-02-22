@@ -1,0 +1,30 @@
+descriptive_presentation
+========================================================
+author: Duek O.
+date: 22.2.2017
+autosize: true
+
+First Slide
+========================================================
+
+```{r}
+hyperPlot
+```
+- Between time 0 and time 1:
+    - A sigificant change in total difficulties [F(1,13)=5.5, p<0.05]
+    - Changes also for emotional and hyperactivity 
+- Bullet 3
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
